@@ -1,0 +1,28 @@
+name: Alpine Health and Wellness
+favicon: null
+layout_spectrum: 0.12903251056559384
+typography_spectrum: 0.7611496711615473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.32738840603269637
+  lightness: 0.3779792902059853
+  saturation: 0.8369425197597593
+  rhythmicContrast: 0.31487123598344624
+purpose: []
